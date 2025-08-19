@@ -1,0 +1,17 @@
+{
+  "name": "playwright-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "playwright test",
+  "test:ui": "playwright test --project=chromium --headed",
+  "report": "playwright show-report"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2"
+  }
+}
