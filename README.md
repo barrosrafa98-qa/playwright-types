@@ -21,7 +21,7 @@ Gain experience in structuring Playwright test projects following good practices
 
 🌐 Test Website
 
-The project uses the website The Internet
+The project uses the website The Internet (https://the-internet.herokuapp.com/)
  as the test target.
 
 Why this site?
